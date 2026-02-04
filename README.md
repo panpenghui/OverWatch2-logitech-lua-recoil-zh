@@ -8,3 +8,12 @@
     <img src="https://img.shields.io/badge/👉%20前往主仓库-点击跳转-blue?style=for-the-badge">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/panpenghui/logitech-lua-recoil">
+    <img src="https://img.shields.io/badge/English%20Repo-Main-blue?style=for-the-badge">
+  </a>
+  <br><br>
+  <a href="https://github.com/panpenghui/logitech-lua-recoil">
+    <img src="https://img.shields.io/badge/源代码仓库-点击进入-green?style=for-the-badge">
+  </a>
+</p>
