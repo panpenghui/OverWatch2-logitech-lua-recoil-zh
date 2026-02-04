@@ -7,6 +7,39 @@
     <img src="https://img.shields.io/badge/👉%20前往主仓库-点击跳转-blue?style=for-the-badge">
   </a>
 </p>
+📂 仓库结构说明
+
+📘 本仓库：中文说明、使用指引
+
+📦 主仓库：Lua 源代码与更新维护
+
+👉 请始终以 主仓库代码 为准
+
+📜 免责声明
+
+本项目仅用于 学习 Lua 脚本与 Logitech G Hub 自动化功能。
+请遵守你所使用游戏与平台的相关规则，风险自负。
+
+⭐ 支持项目
+
+如果这个项目对你有帮助：
+
+给主仓库点个 ⭐
+
+或分享给需要的朋友
+
+感谢支持 🙏
+
+<p align="center">
+  <a href="https://github.com/panpenghui/logitech-lua-recoil">
+    <img src="https://img.shields.io/badge/English%20Repo-Main-blue?style=for-the-badge">
+  </a>
+  <br><br>
+  <a href="https://github.com/panpenghui/logitech-lua-recoil">
+    <img src="https://img.shields.io/badge/源代码仓库-点击进入-green?style=for-the-badge">
+  </a>
+</p>
+
 ## 📌 项目简介
 
 这是一个用于 **Logitech G Hub** 的 Lua 压枪脚本示例，  
@@ -50,36 +83,3 @@ initialShots = 13    -- 前 N 发不压枪
 压过头 → 减小 verticalPull
 
 节奏不稳 → 微调 shotInterval
-
-📂 仓库结构说明
-
-📘 本仓库：中文说明、使用指引
-
-📦 主仓库：Lua 源代码与更新维护
-
-👉 请始终以 主仓库代码 为准
-
-📜 免责声明
-
-本项目仅用于 学习 Lua 脚本与 Logitech G Hub 自动化功能。
-请遵守你所使用游戏与平台的相关规则，风险自负。
-
-⭐ 支持项目
-
-如果这个项目对你有帮助：
-
-给主仓库点个 ⭐
-
-或分享给需要的朋友
-
-感谢支持 🙏
-
-<p align="center">
-  <a href="https://github.com/panpenghui/logitech-lua-recoil">
-    <img src="https://img.shields.io/badge/English%20Repo-Main-blue?style=for-the-badge">
-  </a>
-  <br><br>
-  <a href="https://github.com/panpenghui/logitech-lua-recoil">
-    <img src="https://img.shields.io/badge/源代码仓库-点击进入-green?style=for-the-badge">
-  </a>
-</p>
